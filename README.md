@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @adindaalifia
-- 👀 I’m interested in data analysis and machine learning
-- 🌱 I’m currently learning R and Python programming
-- 📫 How to reach me in email adindaalifia.yumna@gmail.com
+👋 Hi, I’m @adindaalifia  
+🎓 Fresh graduate in Statistics with a strong passion for data-driven insights.  
+📫 How to reach me: email adindaalifia.yumna@gmail.com
